@@ -1,16 +1,39 @@
-## Hi there 👋
+# Emil Egiazarov
+**Senior Frontend Engineer**  
+eegiazarovv@gmail.com | [LinkedIn](https://www.linkedin.com/in/emil-egiazarov/) | GMT + 4  
 
-<!--
-**conv22/conv22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Summary
+I'm a **Senior JavaScript Engineer** with **6 years of experience** building scalable web applications, specializing in **frontend development**. Proficient in remote work environments, I've worked within distributed teams of small to medium sizes. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced in **full-cycle development**: 
+- Building web apps from scratch
+- Implementing CI/CD pipelines
+- Integrating analytics and monitoring tools
+- Maintaining and debugging existing apps
+
+Interested in expanding my skills further as a Frontend or Fullstack Engineer within remote-first companies with technically challenging products.
+
+---
+
+## Skills
+
+### **Languages**
+- TypeScript, JavaScript, Golang, HTML, CSS
+
+### **Frameworks**
+- Next.js, Vue, Nest, Express
+
+### **Libraries**
+- Tailwind, React, React Query, Zod, Zustand, Mobx, Redux
+
+### **Bundlers & Tools**
+- Webpack, Vite, Turborepo
+
+### **Databases**
+- SQL, MongoDB, Redis
+
+### **CI/CD & Testing**
+- GitLab, GitHub Actions
+- Vitest, Jest
